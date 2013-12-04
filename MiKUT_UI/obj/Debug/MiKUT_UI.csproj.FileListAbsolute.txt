@@ -1,0 +1,9 @@
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\bin\Debug\MiKUT_UI.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.MainForm.resources
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\bin\Debug\MiKUT_UI.exe
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\bin\Debug\MiKUT_UI.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.exe
+c:\users\paweł\documents\visual studio 2013\Projects\MiKUT_UI\MiKUT_UI\obj\Debug\MiKUT_UI.pdb
